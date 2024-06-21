@@ -1,0 +1,6 @@
+.marker {
+	width: 24px;
+	height: 50px;
+	background-image: url(/pin.svg);
+	background-repeat: no-repeat;
+}

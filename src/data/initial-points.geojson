@@ -1,0 +1,61 @@
+{
+	"$schema": "https://geojson.org/schema/GeoJSON.json",
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"id": "initial-point-1",
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-114.734444, 44.269722]
+			},
+			"properties": {
+				"name": "Idaho"
+			}
+		},
+		{
+			"id": "initial-point-2",
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.441278, 39.766028]
+			},
+			"properties": {
+				"name": "Indiana"
+			}
+		},
+		{
+			"id": "initial-point-3",
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-111.6602, 34.2744]
+			},
+			"properties": {
+				"name": "Arizona"
+			}
+		},
+		{
+			"id": "initial-point-4",
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-105.545167, 39]
+			},
+			"properties": {
+				"name": "Colorado"
+			}
+		},
+		{
+			"id": "initial-point-5",
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-74.006, 40.7128]
+			},
+			"properties": {
+				"name": "New York"
+			}
+		}
+	]
+}
